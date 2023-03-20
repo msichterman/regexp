@@ -7,14 +7,14 @@ interface SiteConfig {
   links: {
     twitter: string
     github: string
-    docs: string
+    personal: string
   }
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Next.js",
+  name: "RegExp",
   description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "Stop wasting hours learning & writing regular expressions, when AI has you covered.",
   mainNav: [
     {
       title: "Home",
@@ -22,8 +22,8 @@ export const siteConfig: SiteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
-    docs: "https://ui.shadcn.com",
+    twitter: "https://twitter.com/mattsichterman",
+    github: "https://github.com/msichterman",
+    personal: "https://msich.dev/",
   },
 }
