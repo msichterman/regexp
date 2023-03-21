@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dark .monaco-editor,
+.dark .monaco-editor-background,
+.dark .monaco-editor .inputarea.ime-input,
+.dark .monaco-editor .margin {
+  background-color: theme(colors.neutral.900) !important;
+}

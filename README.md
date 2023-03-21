@@ -69,8 +69,8 @@ The `cn` util handles conditional classes and class merging.
 ### Input
 
 ```ts
-cn("px-2 bg-slate-100 py-2 bg-slate-200")
-// Outputs `p-2 bg-slate-200`
+cn("px-2 bg-neutral-100 py-2 bg-neutral-200")
+// Outputs `p-2 bg-neutral-200`
 ```
 
 ## License
