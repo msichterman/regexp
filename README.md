@@ -37,7 +37,6 @@ This project seeks to solve that issue by giving you RegExp superpowers with the
     * [TailwindUI](https://tailwindui.com/) – Tailwind Components / Templates
 * [Planetscale](https://planetscale.com/) – MySQL Database
 * [Vercel](https://vercel.com/) – Deployment Platform
-* [Contentlayer](https://www.contentlayer.dev/) – Typesafe Markdown
 * [Lucide](https://lucide.dev/) – Icons
 
 ## Get In Touch
