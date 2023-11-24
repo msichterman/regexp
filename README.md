@@ -1,9 +1,7 @@
 <div align="center">
 
-**🚧🚧 THIS PROJECT IS CURRENTLY UNDER DEVELOPMENT 🚧🚧**
-
----
-
+## ⚠️ Another side project bites the dust... 😅
+  
 [![MSICH - Personal Site](https://img.shields.io/badge/MSICH-Personal%20Site-0892d0)](https://msich.dev/)&emsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattsichterman?style=social)](https://twitter.com/mattsichterman)&emsp;
 [![Follow on GitHub](https://img.shields.io/github/followers/msichterman?label=Follow%20on%20Github&style=social)](https://github.com/msichterman)&emsp;
@@ -20,7 +18,7 @@ Let's be real: RegExp is hard... I find myself constantly reviewing documentatio
 
 This project seeks to solve that issue by giving you RegExp superpowers with the help of GPT-4. This is also one of my first times implementing an OpenAI tool into a project, so I wanted to start with something small yet useful.
 
-## Features (Coming Soon)
+## Vision
 * 🪄 **Generate RegExp for any code snippet given a description** – Code + Description &rarr; RegExp
 * 🪄 **Find and replace anything for any code snippet given a description** – Code + Description &rarr; Find & Replace (
 * 🪄 **Find and replace anything (with the RegExp used) for any code snippet given a description** – Code + Description &rarr; Find & Replace + RegExp
